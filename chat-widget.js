@@ -551,7 +551,7 @@
         },
         style: {
             primaryColor: '#A2C0FF', // Green
-            secondaryColor: '#0085FF, // Darker green
+            secondaryColor: '#0085FF', // Darker green
             position: 'right',
             backgroundColor: '#ffffff',
             fontColor: '#1f2937'
